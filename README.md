@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 12-03-2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -19,9 +19,10 @@
 ## PROCEDURE:
 ###  Configuration diagram
 ###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
+### - Draw a horizontal reference line and mark point C on it.
+### - From point C, draw the crank CB of length 20 mm, inclined at an angle of 120° to the horizontal.
+### - With B as the center and radius 60 mm, draw an arc that intersects the horizontal line at point A.
+### - Connect points B and A to complete the configuration diagram of the mechanism.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
@@ -30,10 +31,12 @@
 
 ## Velocity diagram
 ###  Scale: 10 m/s = 100 mm (say) 
-###  1. The fixed point C appears as a stationary point in the velocity diagram 
-###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
-###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
-###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
+### - Mark the fixed point C as a stationary point in the velocity diagram.
+### - From c, draw the vector bc of length 100 mm, oriented perpendicular to the crank CB from the configuration diagram.
+### - At point b, draw a projection line perpendicular to the connecting rod AB (as shown in the configuration diagram).
+### - From point c, draw a horizontal line that intersects the projection from b at point a.
+### - Finally, join c and a to complete the velocity diagram.
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
@@ -45,9 +48,11 @@
 
 ## Output
 
+<img width="1855" height="912" alt="Screenshot 2026-03-12 183154" src="https://github.com/user-attachments/assets/04f22b15-cbc7-42e8-8825-e9aec4c8a269" />
 
-### Name:
-### Register Number: 
+
+### Name:SIVAPRASATH B
+### Register Number: 212225230268
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
